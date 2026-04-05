@@ -2,9 +2,6 @@
 
 Predicting whether a customer will default on their credit card payment using Logistic Regression and Random Forest.
 
-Built this as a beginner ML project to get a proper feel for the full workflow rather than just copying code off the internet.
-
----
 
 ## Dataset
 
